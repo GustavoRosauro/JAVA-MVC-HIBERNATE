@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Hibernate/src/java/Services/Manager.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Hibernate/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Hibernate/src/java/Entity/Usuarios.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Hibernate/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Hibernate/src/java/DAO/UsuariosDAO.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Hibernate/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Hibernate/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Hibernate/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Hibernate/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Hibernate/web/redirect.jsp</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Hibernate/src/java/Controlador/UsuariosController.java</file>
+        </group>
+    </open-files>
+</project-private>
